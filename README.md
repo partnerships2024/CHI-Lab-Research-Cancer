@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./Logo/Lung.png"
+    src="./Logo/Lung-Pancreatic-Cancer.png"
     alt="Pancreatic Tumor Segmentation Research" 
     width="700"
   />
