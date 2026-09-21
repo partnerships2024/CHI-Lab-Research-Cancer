@@ -23,41 +23,52 @@
 
 ## About CHI Lab
 
-The **Computational Healthcare Intelligence Lab (CHI Lab)** is a dry research laboratory integrating **computational science, AI/ML, systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
+The **Computational Healthcare Intelligence Lab (CHI Lab)** is a dry research laboratory focused on the integration of **computational science, artificial intelligence and machine learning (AI/ML), systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
 
-**Current CHI Lab Research Direction:** Pancreatic Cancer & Lung Cancer
+### Current CHI Lab Research Direction
 
-This repository provides an **open and structured environment for ICRI-STE selected Early Carrier Researchers (ECRs) training** to develop research skills through literature-driven projects, reproducible experiments, and collaborative research.
+**Computational Cancer Research — Lung and Pancreatic Cancer**
+
+This repository provides an **open and structured research environment for selected Early Career Researchers (ECRs) of ICRI-STE**, supporting the development of research skills through literature-driven projects, reproducible computational experiments, scientific documentation, and collaborative research.
 
 > **Learn → Read → Implement → Experiment → Analyse → Document → Reproduce → Collaborate → Publish**
 
-## Repository Focus
+---
 
-- AI, machine learning & deep learning
-- Computational & systems biology
-- Medical imaging & image segmentation
-- Multi-omics & gene-expression analysis
-- Digital health & healthcare AI
-- Agentic AI & AI-driven virtual laboratories
-- Literature review & research analysis
-- Reproducible experiments & validation
-- Research documentation & collaboration
+## Research Focus
+
+The repository covers the following research areas:
+
+- Artificial intelligence, machine learning, and deep learning
+- Computational and systems biology
+- Computational cancer research
+- Medical imaging and image segmentation
+- Multi-omics and gene-expression analysis
+- Genomic and molecular data analysis
+- Digital health and healthcare AI
+- Federated learning and privacy-preserving AI
+- Agentic AI and AI-driven virtual laboratories
+- Literature review and scientific research analysis
+- Reproducible computational experiments
+- Research documentation, validation, and collaboration
 
 ---
 
 ## Purpose of This Repository
 
-This GitHub repository serves as a central workspace for CHI Lab ECR current activities including:
+This GitHub repository serves as a central research workspace for **CHI Lab ECR activities**, including:
 
-- Mini and main research projects on pancreatic cancer 
-- Python / Jupyter / Google Colab experiments
+- Mini and main research projects in lung and pancreatic cancer
+- Python, Jupyter, and Google Colab experiments
 - Computational biology and systems biology studies
-- AI and machine learning implementations
-- Medical image analysis and segmentation
+- AI/ML and deep learning implementations
+- Medical image analysis and tumour segmentation
 - Multi-omics and gene-expression analysis
-- Digital health and healthcare AI
-- Agentic AI and AI-driven Virtual Laboratories
-- Literature reading and paper analysis
+- Genomic and molecular data analysis
+- Digital health and healthcare AI research
+- Federated learning and privacy-preserving computational research
+- Agentic AI and AI-driven virtual laboratories
+- Literature reading, critical analysis, and paper reproduction
 - Data analysis and visualisation
 - Reproducible computational experiments
 - Research notes, reports, and technical documentation
@@ -67,12 +78,13 @@ This GitHub repository serves as a central workspace for CHI Lab ECR current act
 
 ## Suggested Project Structure
 
-Each mini-project should ideally follow a consistent structure:
+Each research project should, where appropriate, follow a consistent and reproducible structure:
 
 ```text
 project-name/
 │
 ├── README.md
+│
 ├── notebooks/
 │   └── analysis.ipynb
 │
@@ -93,25 +105,27 @@ project-name/
 └── requirements.txt
 ```
 
-> **Important:** Do not upload restricted, confidential, patient-identifiable, or otherwise sensitive healthcare data to this repository. Use public, synthetic, or appropriately de-identified datasets and follow the relevant dataset licence and terms of use.
+> **Important:** Do not upload restricted, confidential, patient-identifiable, or otherwise sensitive healthcare data to this repository. Use public, synthetic, or appropriately de-identified datasets and comply with the relevant dataset licence, terms of use, and data-governance requirements.
 
 ---
+
 # Literature & Research Papers
 
-The repository also provides a curated space for **important research papers, literature notes, and paper-based mini-projects**.
+The repository provides a curated space for **research papers, literature notes, methodological resources, and paper-based mini-projects**.
 
-Literature study should not be limited to downloading papers. ECRs are encouraged to document:
+Literature study should extend beyond simply reading or downloading papers. ECRs are encouraged to critically document:
 
 1. Research problem
 2. Scientific motivation
-3. Dataset / data source
-4. Methodology
-5. Computational framework
-6. Main results
-7. Limitations
-8. Reproducibility
-9. Possible improvements
-10. Potential CHI Lab mini-project
+3. Research gap
+4. Dataset or data source
+5. Methodology
+6. Computational framework
+7. Main findings
+8. Limitations
+9. Reproducibility considerations
+10. Possible improvements
+11. Potential CHI Lab research direction
 
 ### Suggested Literature Structure
 
@@ -128,62 +142,67 @@ literature/
 └── cancer-ai/
 ```
 
-Where appropriate, each paper entry can include:
+Where appropriate, an individual paper or reproduction study may follow:
 
 ```text
 Paper/
-├── paper.pdf
 ├── notes.md
 ├── figures/
 ├── supplementary/
 └── reproduction/
 ```
 
-**Copyright note:** Only upload papers, supplementary materials, or datasets when redistribution is permitted. Otherwise, provide the official DOI, publisher, preprint, or project-page link.
+> **Copyright and licensing:** Only upload papers, supplementary materials, datasets, or other resources when redistribution is permitted. Otherwise, provide the official DOI, publisher page, preprint, project page, or repository link.
 
 ---
 
 # Research Reproducibility Standard
 
-Every CHI Lab project should aim to be:
+Every CHI Lab research project should aim to be:
 
 **Reproducible • Documented • Traceable • Auditable**
 
-At minimum, project documentation should state:
+At minimum, project documentation should identify:
 
 - Research objective
+- Research question and/or hypothesis
 - Dataset source
-- Dataset version/date where relevant
+- Dataset version or access date, where relevant
 - Software environment
 - Python/MATLAB version
-- Required packages
+- Required packages and dependencies
 - Experimental procedure
 - Evaluation metrics
 - Results
 - Limitations
 - References
+- Reproducibility instructions
 
-A good research repository should allow another researcher to understand:
+A well-documented research repository should enable another researcher to understand:
 
 > **What was done? Why was it done? How was it done? What was obtained? Can it be reproduced?**
 
-## Motivation
+---
 
-Our pancreatic tumour segmentation research is motivated by recent advances in **medical image segmentation, AI-driven radiology, and reproducible open-source research**. The following resources provide key methodological, scientific, and implementation foundations for this work.
+# Pancreatic Tumour Segmentation Research
+
+Our pancreatic tumour segmentation research is motivated by advances in **medical image segmentation, AI-driven medical imaging, computational radiology, and reproducible open-source research**.
+
+The following resources provide important methodological, scientific, and implementation foundations for the CHI Lab's pancreatic tumour segmentation activities.
 
 | **Researcher / Resource** | **Research Papers & Open-Source Implementations** |
 |:---|:---|
 | **Prof. Dr. Zongwei Zhou** | [Website](https://www.zongweiz.com) · [PanTS GitHub Repository](https://github.com/MrGiovanni/PanTS) |
 | **Relevant Research Papers** | [Paper 1](https://arxiv.org/abs/2507.01291) · [Paper 2](https://arxiv.org/abs/1912.05074) · [Paper 3](https://arxiv.org/abs/2102.04306) · [Paper 4](https://arxiv.org/abs/2203.00131) · [Paper 5](https://arxiv.org/html/2604.20981v1) |
 
-### Key Reference: Learning Segmentation from Radiology Reports
+## Key Reference: Learning Segmentation from Radiology Reports
 
 **Learning Segmentation from Radiology Reports**  
-Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan Yuille, and Zongwei Zhou.  
+Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan Yuille, and Zongwei Zhou.
 
 **Johns Hopkins University** · **MICCAI 2025 — Best Paper Award (Runner-up)**
 
-**Research & Implementation Resources**
+### Research & Implementation Resources
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-purple?style=for-the-badge)](https://www.cs.jhu.edu/~zongwei/publication/bassi2025learning.pdf)
 [![Poster](https://img.shields.io/badge/Poster-PDF-blue?style=for-the-badge)](https://www.cs.jhu.edu/~zongwei/poster/bassi2025miccai_rsuper.pdf)
@@ -191,32 +210,56 @@ Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio D
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/7pamG9DDSJw?si=-376z03g832UyTKB)
 [![Oral Presentation](https://img.shields.io/badge/Oral-RSNA-orange?style=for-the-badge)](https://youtu.be/r11X39fH-yU?si=ZOBlHMo1CvN9aVzb)
 
-### Why This Work Matters
+### Research Relevance
 
-These resources provide a foundation for developing **reproducible pancreatic tumour segmentation pipelines**, combining published medical imaging methods with publicly available implementations. Our work builds upon these foundations while focusing on **reproduction, validation, and further development of AI-based pancreatic tumour segmentation methods**.
+These resources provide a foundation for developing **reproducible pancreatic tumour segmentation pipelines** by combining published medical imaging methods with publicly available implementations.
+
+CHI Lab activities build upon these foundations through **reproduction, validation, benchmarking, documentation, and further development of AI-based pancreatic tumour segmentation methods**.
+
+---
 
 ## PanTS Reproduction Activities
-Explore the PanTS reproduction activities based on publicly available source code, research resources, and supporting information. The corresponding materials and experiments are organized into the given folders. 
+
+This section documents CHI Lab activities related to the **reproduction and validation of PanTS-based pancreatic tumour segmentation methods**.
+
+The reproduction work is organised around publicly available source code, research papers, datasets, implementation resources, and supporting documentation.
+
+The objective is to provide ECRs with practical experience in:
+
+- Understanding published segmentation methods
+- Preparing and auditing medical imaging data
+- Reproducing published computational workflows
+- Training and testing segmentation models
+- Evaluating model performance
+- Documenting experimental procedures
+- Identifying reproducibility challenges
+- Developing potential extensions for future research
+
+---
 
 # CHI Lab Google Colab
 
-Google Colab provides a convenient cloud-based environment for running CHI Lab notebooks without requiring a full local installation.
+**Google Colab** provides a convenient cloud-based environment for running selected CHI Lab notebooks without requiring a complete local software installation.
 
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20CHI%20Lab%20Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1G0gwLBB0ukdyIkIkklgy-LOvrFPLJ6l6?usp=sharing)
 
-Recommended use:
+### Recommended Uses
 
-- Run introductory notebooks
+- Run introductory research notebooks
 - Test AI/ML models
-- Perform data analysis
+- Perform exploratory data analysis
 - Reproduce selected literature methods
 - Conduct ECR mini-project experiments
+- Evaluate computational workflows
 - Share executable research notebooks
+
 ---
 
-# CHI Lab Research Project Google Document
+# CHI Lab Research Project Document
 
 [![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1ZS-7U8J_ZEvcUT_LtzDHRV7wtD4hlo9aQQRnYUAsK20/edit?usp=sharing)
+
+This document provides supporting information for the CHI Lab research activities and project development process.
 
 ---
 
@@ -224,75 +267,82 @@ Recommended use:
 
 | Resource | Link |
 |:---|:---|
-| **Future Leaders Network** |[![Future Leaders](https://img.shields.io/badge/Future%20Leaders-ECR%20Network-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/future-leaders/)|
-| **YouTube Channel** |[![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights)|
-| **WhatsApp Channel** |[![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)|
+| **Future Leaders Network** | [![Future Leaders](https://img.shields.io/badge/Future%20Leaders-ECR%20Network-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/future-leaders/) |
+| **YouTube Channel** | [![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights) |
+| **WhatsApp Channel** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) |
 | **CHI Lab Google Document** | [![Google Docs](https://img.shields.io/badge/Google%20Docs-Help%20Desk%20in%20R%26D-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/10ijo9jq8jDHfeKm0g2J2bKDr94_N3Q633KCtohv06o8/edit?usp=sharing) |
-| **Research Concept Note** | [![Research Concept Note Template](https://img.shields.io/badge/Research%20Concept%20Note-Template-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1bc9-B7rEsXqSk5xmW-SJpFm8GYLqN-8LLq2sdW6-zBA/edit?usp=sharing)|
-| **Research Proposals / Project Calls** | Add official link |
+| **Research Concept Note** | [![Research Concept Note Template](https://img.shields.io/badge/Research%20Concept%20Note-Template-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1bc9-B7rEsXqSk5xmW-SJpFm8GYLqN-8LLq2sdW6-zBA/edit?usp=sharing) |
+| **Research Proposals / Project Calls** | *To be added* |
 
+---
 
-| CHI Lab Repository | Access |
+# CHI Lab Repository
+
+| Repository | Access |
 |:---|:---|
-| **CHI Lab — Public Repository: Foundations and Practical Intuition in ML & DL** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didarmurad2019/ICRI-STE-AI-ML-Healthcare.git) |
+| **CHI Lab — Foundations and Practical Intuition in Machine Learning & Deep Learning** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didarmurad2019/ICRI-STE-AI-ML-Healthcare.git) |
 
 ---
 
 # Research Ethics & Responsible AI
 
-Healthcare research requires particular attention to:
+Healthcare and biomedical research require particular attention to:
 
-- Privacy
+- Privacy and data protection
 - Data governance
 - Patient confidentiality
-- Dataset licensing
+- Dataset licensing and terms of use
 - Reproducibility
 - Bias and fairness
 - Model interpretability
 - Responsible AI
-- Appropriate scientific attribution
+- Scientific integrity
+- Appropriate attribution
 
-This repository is intended for **research and educational purposes**. Computational results should not be interpreted as clinical advice or deployed clinically without appropriate validation, governance, and regulatory review.
+This repository is intended for **research, training, and educational purposes**.
+
+Computational results should not be interpreted as clinical advice or used for clinical decision-making without appropriate **clinical validation, ethical oversight, governance, and regulatory approval**, where applicable.
 
 ---
 
 # Citation & Attribution
 
-When using external datasets, models, software, or published methods:
+When using external datasets, models, software, code, or published methodologies:
 
-1. Cite the original research paper.
-2. Cite the dataset.
-3. Follow the dataset/software licence.
-4. Acknowledge the original authors.
-5. Clearly distinguish reproduced work from new contributions.
+1. Cite the original research publication.
+2. Cite the dataset and its source.
+3. Follow the applicable dataset and software licences.
+4. Acknowledge the original authors and contributors.
+5. Clearly distinguish reproduced work from original contributions.
+6. Document any modifications made to the original methodology or implementation.
 
-For example:
+### Example Citation
 
 ```bibtex
 @misc{chi_lab_ecr,
   title        = {CHI Lab ECR Mini Projects and Research Repository},
   author       = {Computational Healthcare Intelligence Lab},
   year         = {2026},
-  organization = {ICRI-STE}
+  organization = {International Council for Research \& Innovation in STE (ICRI-STE)}
 }
 ```
 
 ---
 
-### Research Philosophy
+# Research Philosophy
 
 > **From computational experiments to reproducible scientific discovery.**
 
-</div>
-
 ---
 
-## Repository Vision
+# Repository Vision
 
-The long-term goal of this repository is to develop a **structured, reproducible, and collaborative research ecosystem** where ECRs can progress from foundational skills to advanced interdisciplinary research.
+The long-term goal of this repository is to develop a **structured, reproducible, and collaborative research ecosystem** in which ECRs can progress from foundational research skills to advanced interdisciplinary research.
+
+The CHI Lab research workflow can be summarised as:
 
 ```text
-                     CHI LAB
+                     CHI LAB RESEARCH WORKFLOW
 
         ┌─────────────────────────────┐
         │     Research Questions      │
@@ -307,7 +357,7 @@ The long-term goal of this repository is to develop a **structured, reproducible
         └──────────────┬──────────────┘
                        ↓
         ┌─────────────────────────────┐
-        │       AI / Modelling        │
+        │      AI / Modelling         │
         └──────────────┬──────────────┘
                        ↓
         ┌─────────────────────────────┐
@@ -319,12 +369,12 @@ The long-term goal of this repository is to develop a **structured, reproducible
         └──────────────┬──────────────┘
                        ↓
         ┌─────────────────────────────┐
-        │ Reproducible Research      │
+        │   Reproducible Research     │
         └──────────────┬──────────────┘
                        ↓
         ┌─────────────────────────────┐
-        │ Scientific Publication &   │
-        │         Impact              │
+        │ Scientific Communication &  │
+        │         Publication         │
         └─────────────────────────────┘
 ```
 
