@@ -11,22 +11,7 @@
 ---
 
 
-## Research Focus
 
-The repository covers the following research areas:
-
-- Artificial intelligence, machine learning, and deep learning
-- Computational and systems biology
-- Computational cancer research
-- Medical imaging and image segmentation
-- Multi-omics and gene-expression analysis
-- Genomic and molecular data analysis
-- Digital health and healthcare AI
-- Federated learning and privacy-preserving AI
-- Agentic AI and AI-driven virtual laboratories
-- Literature review and scientific research analysis
-- Reproducible computational experiments
-- Research documentation, validation, and collaboration
 
 ---
 
@@ -392,4 +377,21 @@ The **Computational Healthcare Intelligence Lab (CHI Lab)** is a dry research la
 This repository provides an **open and structured research environment for selected Early Career Researchers (ECRs) of ICRI-STE**, supporting the development of research skills through literature-driven projects, reproducible computational experiments, scientific documentation, and collaborative research.
 
 > **Learn → Read → Implement → Experiment → Analyse → Document → Reproduce → Collaborate → Publish**
+>
+> ## Research Focus
+
+The repository covers the following research areas:
+
+- Artificial intelligence, machine learning, and deep learning
+- Computational and systems biology
+- Computational cancer research
+- Medical imaging and image segmentation
+- Multi-omics and gene-expression analysis
+- Genomic and molecular data analysis
+- Digital health and healthcare AI
+- Federated learning and privacy-preserving AI
+- Agentic AI and AI-driven virtual laboratories
+- Literature review and scientific research analysis
+- Reproducible computational experiments
+- Research documentation, validation, and collaboration
 
