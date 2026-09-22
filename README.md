@@ -151,13 +151,6 @@ A well-documented research repository should enable another researcher to unders
 
 ---
 
-# CHI Lab Research Project Document
-
-[![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1ZS-7U8J_ZEvcUT_LtzDHRV7wtD4hlo9aQQRnYUAsK20/edit?usp=sharing)
-
-This document provides supporting information for the CHI Lab research activities and project development process.
-
----
 
 # CHI Lab Repository
 
@@ -174,6 +167,14 @@ This document provides supporting information for the CHI Lab research activitie
 **Google Colab** provides a convenient cloud-based environment for running selected CHI Lab notebooks without requiring a complete local software installation.
 
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20CHI%20Lab%20Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1G0gwLBB0ukdyIkIkklgy-LOvrFPLJ6l6?usp=sharing)
+
+---
+
+# CHI Lab Research Project Document
+
+[![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1ZS-7U8J_ZEvcUT_LtzDHRV7wtD4hlo9aQQRnYUAsK20/edit?usp=sharing)
+
+This document provides supporting information for the CHI Lab research activities and project development process.
 
 ---
 
