@@ -138,11 +138,6 @@ A well-documented research repository should enable another researcher to unders
 
 ---
 
-# CHI Lab Google Colab
-
-**Google Colab** provides a convenient cloud-based environment for running selected CHI Lab notebooks without requiring a complete local software installation.
-
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20CHI%20Lab%20Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1G0gwLBB0ukdyIkIkklgy-LOvrFPLJ6l6?usp=sharing)
 
 ### Recommended Uses
 
@@ -171,6 +166,14 @@ This document provides supporting information for the CHI Lab research activitie
 | **CHI Lab — Foundations and Practical Intuition in Machine Learning & Deep Learning** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didarmurad2019/ICRI-STE-AI-ML-Healthcare.git) |
 | **CHI Lab — ECR Research Training on Lung and/or Pancreatic Cancer** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science%20%7C%20ECR%20Training-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/CHI-Lab-Research-Pancreatic-Cancer.git) |
 | **Virtual Lab: An AI-Driven Agentic System for PanTS Using 3D Medical Images** | [![GitHub](https://img.shields.io/badge/GitHub-Main%20Research%20Contribution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/Virtual-Lab-AI-Driven-Agentic-System-PanTS-Main-Project.git) |
+
+---
+
+# CHI Lab Google Colab
+
+**Google Colab** provides a convenient cloud-based environment for running selected CHI Lab notebooks without requiring a complete local software installation.
+
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20CHI%20Lab%20Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1G0gwLBB0ukdyIkIkklgy-LOvrFPLJ6l6?usp=sharing)
 
 ---
 
