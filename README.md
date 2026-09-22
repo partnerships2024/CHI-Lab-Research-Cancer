@@ -182,6 +182,8 @@ This document provides supporting information for the CHI Lab research activitie
 | Repository | Access |
 |:---|:---|
 | **CHI Lab — Foundations and Practical Intuition in Machine Learning & Deep Learning** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didarmurad2019/ICRI-STE-AI-ML-Healthcare.git) |
+| **CHI Lab — ECR Research Training on Lung and/or Pancreatic Cancer** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science%20%7C%20ECR%20Training-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/CHI-Lab-Research-Pancreatic-Cancer.git) |
+| **Virtual Lab: An AI-Driven Agentic System for PanTS Using 3D Medical Images** | [![GitHub](https://img.shields.io/badge/GitHub-Main%20Research%20Contribution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/Virtual-Lab-AI-Driven-Agentic-System-PanTS-Main-Project.git) |
 
 ---
 
