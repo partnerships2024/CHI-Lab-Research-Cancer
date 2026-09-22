@@ -6,36 +6,10 @@
   />
 </p>
 
-# Computational Healthcare Intelligence Lab (CHI Lab)
-
-### International Council for Research & Innovation in STE (ICRI-STE)
-
-[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
-[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
-
----
-
-**Dr. Didar Murad**  
-*Principal Investigator & Founding Director, CHI Lab*  
-*PhD in Computational Science & Engineering*
-
 </div>
 
 ---
 
-## About CHI Lab
-
-The **Computational Healthcare Intelligence Lab (CHI Lab)** is a dry research laboratory focused on the integration of **computational science, artificial intelligence and machine learning (AI/ML), systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
-
-### Current CHI Lab Research Direction
-
-**Computational Cancer Research — Lung and Pancreatic Cancer**
-
-This repository provides an **open and structured research environment for selected Early Career Researchers (ECRs) of ICRI-STE**, supporting the development of research skills through literature-driven projects, reproducible computational experiments, scientific documentation, and collaborative research.
-
-> **Learn → Read → Implement → Experiment → Analyse → Document → Reproduce → Collaborate → Publish**
-
----
 
 ## Research Focus
 
@@ -406,7 +380,16 @@ This project forms part of the CHI Lab's computational healthcare and cancer res
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Logo/ICRI-STE.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
 
-**Computational Healthcare Intelligence | Dry Lab**
 
-*From Cancer Genomics to Computational Intelligence*
+## About CHI Lab
+
+The **Computational Healthcare Intelligence Lab (CHI Lab)** is a dry research laboratory focused on the integration of **computational science, artificial intelligence and machine learning (AI/ML), systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
+
+### Current CHI Lab Research Direction
+
+**Computational Cancer Research — Lung and Pancreatic Cancer**
+
+This repository provides an **open and structured research environment for selected Early Career Researchers (ECRs) of ICRI-STE**, supporting the development of research skills through literature-driven projects, reproducible computational experiments, scientific documentation, and collaborative research.
+
+> **Learn → Read → Implement → Experiment → Analyse → Document → Reproduce → Collaborate → Publish**
 
