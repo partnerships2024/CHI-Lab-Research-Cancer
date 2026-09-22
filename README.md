@@ -402,9 +402,9 @@ This project forms part of the CHI Lab's computational healthcare and cancer res
 </p>
 <div align="center">
 
-<img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
+<img src="./Logo/ICRI-STE-Logo.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="ICRI-STE.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
+<img src="./Logo/CHI-Lab.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
 
 **Computational Healthcare Intelligence | Dry Lab**
 
