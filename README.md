@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="./Logo/Lung-Pancreatic-Cancer.png"
-    alt="Pancreatic Tumor Segmentation Research" 
+    src="./Logo/CHI-Lab-Dry-Lab-Cancer-Research.png"
+    alt="Computational Lung & Pancreatic Cancer Research" 
     width="700"
   />
 </p>
