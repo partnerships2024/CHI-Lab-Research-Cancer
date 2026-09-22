@@ -164,19 +164,6 @@ This document provides supporting information for the CHI Lab research activitie
 
 ---
 
-# Important Links
-
-| Resource | Link |
-|:---|:---|
-| **Future Leaders Network** | [![Future Leaders](https://img.shields.io/badge/Future%20Leaders-ECR%20Network-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/future-leaders/) |
-| **YouTube Channel** | [![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights) |
-| **WhatsApp Channel** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) |
-| **CHI Lab Google Document** | [![Google Docs](https://img.shields.io/badge/Google%20Docs-Help%20Desk%20in%20R%26D-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/10ijo9jq8jDHfeKm0g2J2bKDr94_N3Q633KCtohv06o8/edit?usp=sharing) |
-| **Research Concept Note** | [![Research Concept Note Template](https://img.shields.io/badge/Research%20Concept%20Note-Template-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1bc9-B7rEsXqSk5xmW-SJpFm8GYLqN-8LLq2sdW6-zBA/edit?usp=sharing) |
-| **Research Proposals / Project Calls** | *To be added* |
-
----
-
 # CHI Lab Repository
 
 | Repository | Access |
@@ -205,6 +192,18 @@ Healthcare and biomedical research require particular attention to:
 This repository is intended for **research, training, and educational purposes**.
 
 Computational results should not be interpreted as clinical advice or used for clinical decision-making without appropriate **clinical validation, ethical oversight, governance, and regulatory approval**, where applicable.
+
+---
+# Important Links
+
+| Resource | Link |
+|:---|:---|
+| **Future Leaders Network** | [![Future Leaders](https://img.shields.io/badge/Future%20Leaders-ECR%20Network-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com/future-leaders/) |
+| **YouTube Channel** | [![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights) |
+| **WhatsApp Channel** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) |
+| **CHI Lab Google Document** | [![Google Docs](https://img.shields.io/badge/Google%20Docs-Help%20Desk%20in%20R%26D-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/10ijo9jq8jDHfeKm0g2J2bKDr94_N3Q633KCtohv06o8/edit?usp=sharing) |
+| **Research Concept Note** | [![Research Concept Note Template](https://img.shields.io/badge/Research%20Concept%20Note-Template-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1bc9-B7rEsXqSk5xmW-SJpFm8GYLqN-8LLq2sdW6-zBA/edit?usp=sharing) |
+| **Research Proposals / Project Calls** | *To be added* |
 
 ---
 
