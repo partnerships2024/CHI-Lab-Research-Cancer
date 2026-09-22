@@ -6,13 +6,6 @@
   />
 </p>
 
-</div>
-
----
-
-
-
-
 ---
 
 ## Purpose of This Repository
