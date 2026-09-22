@@ -332,9 +332,6 @@ The CHI Lab research workflow can be summarised as:
         └─────────────────────────────┘
 ```
 
----
-
----
 # Computational Healthcare Intelligence Lab (CHI Lab) 
 ## Research Leadership
 
