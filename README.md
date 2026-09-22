@@ -382,11 +382,31 @@ The CHI Lab research workflow can be summarised as:
 
 ---
 
+---
+# Computational Healthcare Intelligence Lab (CHI Lab) 
+## Research Leadership
+
+**Dr. Didar Murad**
+
+Principal Investigator & Founding Director
+
+**CHI Lab, ICRI-STE** 
+
+This project forms part of the CHI Lab's computational healthcare and cancer research activities, integrating **systems-oriented computational research, cancer genomics, and artificial intelligence/deep learning**
+
+[![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
+[![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
+
+---
+
+</p>
 <div align="center">
 
-**Computational Healthcare Intelligence Lab (CHI Lab)**  
-**International Council for Research & Innovation in STE (ICRI-STE)**
+<img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="ICRI-STE.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
 
-**Learn • Research • Reproduce • Innovate • Collaborate**
+**Computational Healthcare Intelligence | Dry Lab**
 
-</div>
+*From Cancer Genomics to Computational Intelligence*
+
