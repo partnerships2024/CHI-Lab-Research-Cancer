@@ -187,6 +187,7 @@ This document provides supporting information for the CHI Lab research activitie
 | **WhatsApp Channel** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) |
 | **CHI Lab Google Document** | [![Google Docs](https://img.shields.io/badge/Google%20Docs-Help%20Desk%20in%20R%26D-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/10ijo9jq8jDHfeKm0g2J2bKDr94_N3Q633KCtohv06o8/edit?usp=sharing) |
 | **Research Concept Note** | [![Research Concept Note Template](https://img.shields.io/badge/Research%20Concept%20Note-Template-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1bc9-B7rEsXqSk5xmW-SJpFm8GYLqN-8LLq2sdW6-zBA/edit?usp=sharing) |
+| **CHI Lab Book Direction** | [![CHI Lab Book Direction](https://img.shields.io/badge/CHI%20Lab%20Book%20Direction-Computational%20Healthcare%20Intelligence-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://drive.google.com/file/d/1uWiaKgm3xkiVxtT468gQ8cMiN-ugLNCg/view?usp=drive_link) |
 | **Research Proposals / Project Calls** | *To be added* |
 
 ---
