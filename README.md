@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./Logo/Logo-1_Main.png"
+    src="./Logo/Logo-1.png"
     alt="Computational Lung & Pancreatic Cancer Research" 
     width="700"
   />
