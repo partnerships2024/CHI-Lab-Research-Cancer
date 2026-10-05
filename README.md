@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./Logo/CHI-Lab-Dry-Lab-Cancer-Research.png"
+    src="./Logo/Logo-1_Main.png"
     alt="Computational Lung & Pancreatic Cancer Research" 
     width="700"
   />
